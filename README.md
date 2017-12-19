@@ -26,3 +26,4 @@ The notification and signaling devices are LCD 16x2 display, LED 8x8 matrix and 
 
 Device schematic:
 
+![alt text](https://raw.githubusercontent.com/konnod/Email-checker/master/scheme.png)
